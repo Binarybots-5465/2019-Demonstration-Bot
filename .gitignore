@@ -156,5 +156,7 @@ gradle-app.setting
 .settings/
 bin/
 
+### Google Drive Upload ###
+desktop.ini
 
 # End of https://www.gitignore.io/api/c++,java,linux,macos,gradle,windows,visualstudiocode
